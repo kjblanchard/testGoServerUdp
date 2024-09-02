@@ -1,6 +1,6 @@
 module github.com/kjblanchard/supergoonBlackJackServer
 
-go 1.22.3
+go 1.22
 
 require (
 	github.com/codecat/go-enet v0.0.0-20240719082706-af0e3f4fecfb
